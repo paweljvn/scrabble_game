@@ -44,7 +44,7 @@ print (scrabble_score("word"))
 
 
 
-# returns a word of specified value
+
 
 
 
