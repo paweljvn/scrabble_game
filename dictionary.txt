@@ -1,0 +1,28 @@
+dict
+warsaw
+introduction
+tricity
+bike
+car
+house
+plant flower
+dog
+cat table
+ship
+plane
+machine
+python
+snake
+computer
+mouse
+router
+elephant
+profil
+software
+engineer
+ubuntu
+linux
+mac
+osx
+ios
+android
